@@ -1,0 +1,20 @@
+PODS:
+  - FSCalendar (2.7.9)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - FSCalendar
+  - Masonry (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSCalendar
+    - Masonry
+
+SPEC CHECKSUMS:
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: a97def78d07dd0b63df49f42f6cfaad5451afe87
+
+COCOAPODS: 1.5.3
